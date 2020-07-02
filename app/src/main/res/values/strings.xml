@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="draw">RIŠI</string>
+    <string name="size_to_big_toast">Prevelika velikost lika. Nastavljena je na 100%.</string>
+    <string name="size_too_small">Premajhna velikost lika. Nastavljena je na 1%.</string>
+    <string name="size">Velikost:</string>
+</resources>
